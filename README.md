@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **innovative projects, especially in web development.**
 
-- 💬 Ask me about **DSA, HTML5, CSS3, JS, NodeJs..**
+- 💬 Ask me about **DSA,React,Java, JS, NodeJs..**
 
 - 📫 How to reach me **manyaahir6676@gmail.com**
 
